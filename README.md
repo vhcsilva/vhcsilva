@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS and NextJS**
 
-- 📫 How to reach me **vhcsilvaa@gmail.com**
+- 📫 How to reach me **vhcsilvadev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vhcsilva](https://www.linkedin.com/in/vhcsilva)
 
